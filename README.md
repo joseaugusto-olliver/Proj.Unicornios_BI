@@ -10,7 +10,7 @@ Unicórnios também podem se referir a um fenômeno de recrutamento no setor de 
 
 ![image](https://github.com/user-attachments/assets/cd7b02bf-fd31-4c67-9526-e5fcab4c925f)
 
-#### Utilizei dados da análise que fiz pelo Python para criar um Dashboard para um melhor entendimento.
+#### Utilizei dados da análise que fiz pelo Python para criar um Dashboard para uma melhor apresentação dos Dados.
 [Projeto Unicórnios Python](https://github.com/joseaugusto-olliver/Projeto_Unicornios)
 
 ### Power BI
